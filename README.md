@@ -28,7 +28,7 @@ HTTP Requests
             "gender": String
         }
 
-        Birthday format: "yyyy-mm-dd"
+    Birthday format: "yyyy-mm-dd"
 
 
 2. List Users
@@ -55,7 +55,7 @@ HTTP Requests
             "gender": String
         }
 
-        Birthday format: "yyyy-mm-dd"
+    Birthday format: "yyyy-mm-dd"
 
 
 5. View User
